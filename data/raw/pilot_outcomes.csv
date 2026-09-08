@@ -1,0 +1,4 @@
+pilot_id,startup_id,district,kpi_target_pct,kpi_achieved_pct,budget_variance_pct,timeline_status,security_pass,citizen_satisfaction_score,independent_val_pass,scale_recommendation,data_source_type
+PL-2026-PUNE-01,ST-005,Pune,33.3,35.0,2.0,ON_TIME,1,91,1,READY_FOR_SCALE,REAL_PUBLIC
+PL-2025-NASHIK-02,ST-002,Nashik,80.0,74.0,0.0,DELAYED_2_WKS,1,82,1,REQUIRES_SECOND_PILOT,REAL_PUBLIC
+PL-2025-MUMBAI-03,ST-003,Mumbai,95.0,96.5,-1.5,ON_TIME,1,94,1,READY_FOR_SCALE,REAL_PUBLIC

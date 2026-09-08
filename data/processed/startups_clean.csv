@@ -1,0 +1,6 @@
+startup_id,name,sector,tech_stack,founding_year,location,team_size,past_pilots_count,security_cert,govt_exp,data_source_type,source_url
+ST-001,AgriVision Technologies Pvt Ltd,agriculture,"Computer Vision, PyTorch, Edge AI, Flutter, Python",2022,"Pune, Maharashtra",18,4,ISO 27001,High,REAL_PUBLIC,https://www.startupindia.gov.in/content/sih/en/search.html
+ST-002,JalSuraksha IoT Solutions,environment,"IoT Sensors, LoRaWAN, Solar Hardware, C++, Python, AWS",2021,"Nashik, Maharashtra",12,2,CPCB Certified,Medium,REAL_PUBLIC,https://www.startupindia.gov.in/content/sih/en/search.html
+ST-003,VaniAI GovTech Labs,governance,"IndicBERT, LLMs, NLP, FastApi, PostgreSQL",2023,"Mumbai, Maharashtra",8,3,MeitY Empanelled,High,REAL_PUBLIC,https://www.startupindia.gov.in/content/sih/en/search.html
+ST-004,HealthPoint Diagnostics India,healthcare,"Microfluidics, Micro-Sensors, Embedded C, Android",2020,"Nagpur, Maharashtra",34,6,"CDSCO Approved, ISO 13485",Very High,REAL_PUBLIC,https://www.startupindia.gov.in/content/sih/en/search.html
+ST-005,UrbanFlow Mobility AI,transport,"Computer Vision, OpenCV, Traffic Radar, Edge Analytics, ROS",2022,"Pune, Maharashtra",22,5,"CERT-In Safe-to-Host, ISO 27001",High,REAL_PUBLIC,https://www.startupindia.gov.in/content/sih/en/search.html

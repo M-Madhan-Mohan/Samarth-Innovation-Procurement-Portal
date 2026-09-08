@@ -1,0 +1,49 @@
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Python virtual environments, caches, and test output
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# JavaScript dependencies and build artifacts
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Local databases, logs, and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+Backend/storage/
+tmp/
+temp/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

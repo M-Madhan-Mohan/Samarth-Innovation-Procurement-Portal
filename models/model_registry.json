@@ -1,0 +1,19 @@
+{
+  "scale_readiness": {
+    "model_name": "Scale Readiness Predictor",
+    "version": "v1.2",
+    "algorithm": "RandomForestClassifier",
+    "test_accuracy": 1.0,
+    "test_f1": 1.0,
+    "test_roc_auc": 1.0,
+    "features": [
+      "kpi_achievement_pct",
+      "budget_variance_pct",
+      "timeline_days",
+      "security_pass",
+      "past_pilots",
+      "team_size"
+    ],
+    "status": "PRODUCTION_PROTOTYPE"
+  }
+}

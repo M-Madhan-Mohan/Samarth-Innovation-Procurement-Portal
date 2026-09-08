@@ -1,0 +1,8 @@
+district_name,population_lakhs,urban_pct,major_corridors,traffic_index,school_zone_density,data_source_type
+Pune,94.2,61.0,42,88,High,REAL_PUBLIC
+Nashik,61.1,42.5,28,72,Medium,REAL_PUBLIC
+Nagpur,46.5,68.3,30,76,High,REAL_PUBLIC
+Thane,110.6,77.0,50,92,Very High,REAL_PUBLIC
+Navi Mumbai,11.2,95.0,22,68,Medium,REAL_PUBLIC
+Chhatrapati Sambhajinagar,37.0,44.0,24,70,Medium,REAL_PUBLIC
+Kolhapur,38.8,32.0,20,62,Medium,REAL_PUBLIC
